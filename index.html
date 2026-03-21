@@ -191,13 +191,6 @@
       clearError();
     });
 
-    // Also support ?image= URL param (best-effort, expects encodeURIComponent'd value)
-    const params = new URLSearchParams(window.location.search);
-    const fromUrl = params.get('image');
-    if (fromUrl) {
-      textarea.value = fromUrl;
-      renderImage(fromUrl);
-    }
   </script>
 </body>
 </html>

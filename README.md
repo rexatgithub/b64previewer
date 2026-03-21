@@ -8,8 +8,6 @@ Open `index.html` in a browser, then either:
 
 **Paste** a base64 string or data URI into the textarea — the image renders automatically.
 
-**URL param** — append `?image=<base64>` to the URL for direct linking. The value should be `encodeURIComponent`'d to avoid encoding issues with `+` and `/` characters.
-
 ```
 index.html?image=iVBORw0KGgo...
 ```
