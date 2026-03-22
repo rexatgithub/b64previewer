@@ -5,11 +5,8 @@ A simple single-file base64 image previewer.
 
 ## Usage
 
-**Paste** a base64 string or data URI into the textarea — the image renders automatically.
+**Paste** a base64 string into the textarea — the image renders automatically.
 
-```
-index.html?image=iVBORw0KGgo...
-```
 
 ## Supported input formats
 
