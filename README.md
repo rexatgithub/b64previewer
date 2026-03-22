@@ -5,8 +5,6 @@ A simple single-file base64 image previewer.
 
 ## Usage
 
-Open `index.html` in a browser, then either:
-
 **Paste** a base64 string or data URI into the textarea — the image renders automatically.
 
 ```
