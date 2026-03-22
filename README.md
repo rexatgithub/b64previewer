@@ -1,4 +1,5 @@
 # b64previewer
+https://rexatgithub.github.io/b64previewer/
 
 A simple single-file base64 image previewer.
 
